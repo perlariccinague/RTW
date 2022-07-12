@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c41b427a-4687-4cd5-821a-c15f71b0c0d9" name="server" url="http://home68719331.1and1-data.host">
+        <fileTransfer rootFolder="/cto413" host="home68719331.1and1-data.host" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
